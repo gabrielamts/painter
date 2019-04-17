@@ -1,0 +1,50 @@
+h1 {
+	font-family: 'Pacifico', cursive;
+	font-family: 'Leckerli One', cursive;
+	text-align: center;
+	font-size:7rem;
+	color:#ffff;
+}
+body {
+	font-family: 'Oxygen', sans-serif;
+	text-align:center;
+	color:#ffff;
+	max-width: 70%;
+	background-image: url("../img/fond.jpg");
+	background-size: cover;
+	margin: 0 auto;
+}
+svg {
+	background: #ffffff;
+	border: 4px solid black;
+}
+footer {
+	background-color:;
+}
+
+.pink {
+	color: #DE3163;
+}
+
+.purple {
+	color:#800080;
+}
+
+.blue {
+	color:#26C4EC;
+}
+
+.greenLight {
+	color:#7FDD4C;
+}
+
+.yellow {
+	color:#F3D617;
+}
+
+.orange {
+	color: #ED7F10;
+}
+.greenDark {
+	color:#149414;
+}
